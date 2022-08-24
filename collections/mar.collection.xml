@@ -1,3 +1,19 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10887</md:content-id>  <md:title>Mar</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>            <md:uuid>d2aae74b-a029-4aec-8317-812a070cef2f</md:uuid>
-<md:slug>mar</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Giới thiệu Mar Thư viện</md:title>                                <col:content>                    <col:module document="m28618"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Nguy&#x1EC5;n V&#x1B0;&#x1A1;ng">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10887</md:content-id>
+    <md:title>Mar</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>d2aae74b-a029-4aec-8317-812a070cef2f</md:uuid>
+    <md:slug>mar</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Gi&#x1EDB;i thi&#x1EC7;u Mar Th&#x1B0; vi&#x1EC7;n</md:title>
+      <col:content>
+        <col:module document="m28618"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
